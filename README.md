@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Slayer Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/dd439f7a477cffba4186e-547aa18b835f2a4a2e.jpg" alt="Slayer Music Logo" width="400" height="200">
+  <img src="https://graph.org/file/dd439f7a477cffba4186e-547aa18b835f2a4a2e.jpg" alt="Slayer Music Logo" width="200" height="200">
 </p>
 
 <p align="center">
