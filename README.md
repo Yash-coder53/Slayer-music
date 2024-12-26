@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Slayer Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/dd439f7a477cffba4186e-547aa18b835f2a4a2e.jpg" alt="Slayer Music Logo" width="600" height="300">
+  <img src="https://graph.org/file/dd439f7a477cffba4186e-547aa18b835f2a4a2e.jpg" alt="Slayer Music Logo" width="400" height="200">
 </p>
 
 <p align="center">
@@ -21,9 +21,6 @@
 
 ---
 
-### 📺 How to make cookies in phone
-just click on thumbnail to watch the tutorial
-[![Watch the video](1000019442_enhanced.jpg.png)](https://www.youtube.com/watch?v=oQd2P3yciPg)
 ### 🛠 Commands & Usage
 
 The Slayer Music Bot offers various commands to enhance your music experience on Telegram:
